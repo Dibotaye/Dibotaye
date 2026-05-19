@@ -1,16 +1,30 @@
-## Hi there 👋
+## Dibotaye
 
-<!--
-**Dibotaye/Dibotaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student focused on building practical, well-structured applications and growing across the full stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus Areas
+
+- Data structures and algorithms
+- Full-stack web development
+- Clean code and maintainable architecture
+- RESTful APIs
+
+---
+
+### Skills
+
+| Category               | Details                                                                    |
+| ---------------------- | -------------------------------------------------------------------------- |
+| Languages              | Python, JavaScript, TypeScript                                             |
+| Frameworks & Libraries | Flutter, React, Next.js, Node.js, Express.js, Nest.js, Bootstrap, Tailwind |
+| Databases              | PostgreSQL, MySQL, Convex Database                                         |
+| Tools & Platforms      | Git, GitHub, Docker, Firebase, Figma, VS Code, Kali Linux, VMware          |
+
+---
+
+### Connect
+
+- GitHub: https://github.com/Dibotaye
+- Email: diborataye7@example.com
