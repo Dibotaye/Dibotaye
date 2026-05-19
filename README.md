@@ -1,19 +1,18 @@
-## Dibotaye
+## Hi there, I am Dibora 👋
 
 Software engineering student focused on building practical, well-structured applications and growing across the full stack.
 
 ---
 
-### Focus Areas
+### Focus Areas 🎯
 
 - Data structures and algorithms
 - Full-stack web development
 - Clean code and maintainable architecture
-- RESTful APIs
 
 ---
 
-### Skills
+### Skills 🧰
 
 | Category               | Details                                                                    |
 | ---------------------- | -------------------------------------------------------------------------- |
@@ -24,7 +23,7 @@ Software engineering student focused on building practical, well-structured appl
 
 ---
 
-### Connect
+### Connect 🌐
 
 - GitHub: https://github.com/Dibotaye
 - Email: diborataye7@example.com
